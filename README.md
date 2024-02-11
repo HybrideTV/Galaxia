@@ -1,4 +1,3 @@
 # Galaxia
-GalaxiaMod 1.12.2
-Ces sources sont disponibles à l'utilisation. Vous êtes libre de l'utiliser, le modifier.
-Ce mod est en partie non fonctionnel et n'as pas été terminé.
+The mod is not finished and abandoned. You are free to use and modify the code.
+Le mod n'est pas terminé et abandonné. Vous êtes libre d'utiliser et modifier le code.
